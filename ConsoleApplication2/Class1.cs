@@ -9,5 +9,6 @@ namespace ConsoleApplication2
     class Class1
     {
         int juanito;
+        String pillo = "soy pillo";
     }
 }
