@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2
 {
-    class Class1
+    class Class2
     {
-        int juanito;
-        String pillo = "soy pillo";
-        String Putamadre;
-
     }
 }

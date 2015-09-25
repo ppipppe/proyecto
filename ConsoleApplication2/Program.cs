@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            String JO = "Holi holi ";
             Console.Write("asd");
             Console.Write("asd");
             Console.Write("asd");
@@ -20,6 +21,8 @@ namespace ConsoleApplication2
             Console.Write("asd");
             Console.Write("asd");
             Console.ReadKey();
+            Console.WriteLine("Holi");
+            Console.WriteLine(JO);
         }
     }
 }
