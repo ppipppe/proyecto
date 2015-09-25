@@ -19,6 +19,7 @@ namespace ConsoleApplication2
             Console.Write("asd");
             Console.Write("asd");
             Console.Write("asd");
+            Console.ReadKey();
         }
     }
 }
