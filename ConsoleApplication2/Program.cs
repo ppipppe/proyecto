@@ -13,8 +13,7 @@ namespace ConsoleApplication2
             Console.Write("asd");
             Console.Write("asd");
             Console.Write("asd");
-            Console.Write("asd");
-            Console.Write("asd");
+            Console.Write("asdfwefewf");
             Console.Write("asd");
             Console.Write("asd");
             Console.Write("asd");
